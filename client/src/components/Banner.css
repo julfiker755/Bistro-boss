@@ -1,0 +1,10 @@
+.carousel .thumbs-wrapper{
+    text-align: center!important;
+    margin: auto;
+    padding:10px 0px;
+}
+li.slide img {
+    width: 100%!important;
+    height: 520px!important;
+    object-fit: cover!important;
+}

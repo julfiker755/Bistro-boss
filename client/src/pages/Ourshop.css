@@ -1,0 +1,20 @@
+.react-tabs__tab-list{
+    border: none;
+}
+.react-tabs__tab--selected{
+    border: none;
+    background-color: #ddae0d !important;
+    color: white !important;
+}
+.react-tabs__tab{
+    font-size: 20px;
+    text-transform: capitalize;
+    background-color: #0ee7ef;
+    border-radius: 5px;
+    color: white;
+    margin-right: 5px;
+}
+.react-tabs__tab>h1, h2, h3,h4, h5,h6{
+    background-color: gainsboro;
+    padding: 20px 0;
+}
