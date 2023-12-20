@@ -21,5 +21,5 @@
 
 
 
-> *[Live Link](https://bistroside.surge.sh/)*
+> *[Live Link](https://bistro-boss1.surge.sh/)*
 
